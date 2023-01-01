@@ -11,9 +11,9 @@ class Audio2FaceService:
         """
         :param sample_rate: sample rate
         """
-        self.a2f_url = 'localhost:50051'
+        self.a2f_url = 'localhost:50051'   # Set it to the port of your local host 
         self.sample_rate = 44100
-        self.avatar_instance = '/World/audio2face/PlayerStreaming'
+        self.avatar_instance = '/World/audio2face/PlayerStreaming'   # Set it to the name of your Audio2Face Streaming Instance
 
     def tts_to_wav(self, tts_byte, framerate=22050) -> str:
         """
