@@ -1,4 +1,4 @@
-# Omniverse-Virtual-Assisstant using Riva Server (with Riva SDK, deploy in Google Cloud) and Audio2Face
+# Omniverse-Virtual-Assisstant using Riva Server (with Riva SDK, deployed in Google Cloud) and Audio2Face
 
 ## Demo
 [![Demo](http://img.youtube.com/vi/kv9QM-SODIM/maxresdefault.jpg)](https://youtu.be/kv9QM-SODIM "Video Title")
