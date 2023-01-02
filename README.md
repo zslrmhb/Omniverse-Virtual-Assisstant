@@ -6,10 +6,12 @@
 ## Prerequisites
 - Riva Server
 - Audio2Face
-- Riva Python Client: https://github.com/nvidia-riva/python-clients
-- Wikipedia APIs
-  - https://pypi.org/project/wikipedia/
-  - https://pypi.org/project/Wikipedia-API/
+
+- In a conda environment(Prefer)
+  -  Riva Python Client: https://github.com/nvidia-riva/python-clients
+  - Wikipedia APIs
+    - https://pypi.org/project/wikipedia/
+    - https://pypi.org/project/Wikipedia-API/
 
 
 <!-- ## Tutorial -->
