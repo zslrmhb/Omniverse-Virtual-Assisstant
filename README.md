@@ -15,4 +15,7 @@
   </body>
 </html>
 
-# Inspired by https://github.com/metaiintw/build-an-avatar-with-ASR-TTS-Transformer-Omniverse-Audio2Face
+
+
+## Inspired by https://github.com/metaiintw/build-an-avatar-with-ASR-TTS-Transformer-Omniverse-Audio2Face
+## Limitations: Currently Using the Wikipedia API for NLP Context Query, so it can only Q&A question that is searchable within Wikipedia.
