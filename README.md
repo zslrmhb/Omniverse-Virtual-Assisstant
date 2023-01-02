@@ -3,6 +3,15 @@
 ## Demo
 [![Demo](http://img.youtube.com/vi/kv9QM-SODIM/maxresdefault.jpg)](https://youtu.be/kv9QM-SODIM "Video Title")
 
+## Prerequisites
+- Riva Server
+- Audio2Face
+- Riva Python Client: https://github.com/nvidia-riva/python-clients
+- Wikipedia APIs
+  - https://pypi.org/project/wikipedia/
+  - https://pypi.org/project/Wikipedia-API/
+
+
 <!-- ## Tutorial -->
 <!DOCTYPE html>
 <html>
