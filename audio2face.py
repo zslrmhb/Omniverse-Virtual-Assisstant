@@ -1,3 +1,5 @@
+# speech to Audio2Face module utilizing the gRPC protocal from audio2face_streaming_utils
+
 import riva.client
 import io
 from pydub import AudioSegment
