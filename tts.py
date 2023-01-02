@@ -1,3 +1,5 @@
+# text-to-speech module utilizting the Riva SDK
+
 import riva.client
 import riva.client.audio_io
 from config import URI
