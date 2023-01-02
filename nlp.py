@@ -1,3 +1,5 @@
+# natural language processing module utilizing the Riva SDK 
+
 import wikipedia as wiki
 import wikipediaapi as wiki_api
 import riva.client
