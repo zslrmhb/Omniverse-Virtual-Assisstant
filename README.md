@@ -30,6 +30,7 @@
 3. Fill in the URI in the config.py in the following format: external IP of your Riva Server:Port of your Riva Server. 
     1. For example, if the external IP of the Riva Sever is "12.34.56.789" and the port of the Riva Server is "50050". Then the content in config.py will be 
     > URI = "12.34.56.789:50050"
+3. Check if all the prerequisties are configured.
 4. Run main.py.
 
 
